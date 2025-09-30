@@ -9,4 +9,4 @@
 
 3. Запустите нужный файл
 
-# Скачать файл тут: [https://disk.yandex.ru/d/Y1fio8kTozbQlg](https://github.com/zazyskin/ANTI-BlokDS1.5/archive/refs/heads/main.zip)
+# Скачать файл тут: [КЛИК](https://github.com/zazyskin/ANTI-BlokDS1.5/archive/refs/heads/main.zip)
